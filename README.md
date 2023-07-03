@@ -1,6 +1,6 @@
 # Step Counter App
 
-![Step Counter App](app_logo.png)
+![Step Counter App](app_logo.png | width=200)
 
 This Step Counter app is an Android application that counts the number of steps taken by the user using the step counting sensor on their device. It provides real-time step count updates, elapsed time, and progress towards a predefined goal. The app features a clean user interface with a step count display, a chronometer, a progress bar, and a goal tracker.
 
@@ -12,8 +12,8 @@ This Step Counter app is an Android application that counts the number of steps 
 
 ## Screenshots
 
-![Screenshot 1](screenshot_1.png)
-![Screenshot 2](screenshot_2.png)
+![Screenshot 1](screenshot_1.png | width=200)
+![Screenshot 2](screenshot_2.png | width=200)
 
 ## Getting Started
 
